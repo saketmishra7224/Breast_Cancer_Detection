@@ -1,0 +1,7 @@
+{
+  "name": "breast-cancer-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  }
+}
