@@ -2,7 +2,9 @@
   "name": "breast-cancer-frontend",
   "private": true,
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^5.1.2",
